@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "solution.cpp"
+#include "solution.hpp"
 
 TEST(FindBorderTest, Simple) {
     std::vector<int> a = {0, 0, 0, 1, 1, 1, 1};

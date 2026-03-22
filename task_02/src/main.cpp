@@ -1,4 +1,4 @@
-#include "solution.cpp"
+#include "solution.hpp"
 #include <iostream>
 
 int main() {
